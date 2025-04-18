@@ -29,7 +29,7 @@ Soy estudiante de Informática Empresarial en la Universidad de Costa Rica, apas
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ## 📲 Redes Sociales y Contacto
 
